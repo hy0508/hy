@@ -4,7 +4,10 @@
 function heavyCompute(n) {
     var count = 0,
         i, j;
+<<<<<<< HEAD
 var xyz;
+=======
+>>>>>>> d7a0702e6d2439ac147f2d2beac9d55b4b4e7c13
     for (i = n; i > 0; --i) {
         for (j = n; j > 0; --j) {
             count += 1;
