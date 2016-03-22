@@ -4,7 +4,7 @@
 function heavyCompute(n) {
     var count = 0,
         i, j;
-var fga;
+var pipi;
     for (i = n; i > 0; --i) {
         for (j = n; j > 0; --j) {
             count += 1;
